@@ -1,8 +1,8 @@
 ### Hello 👋, I'm KagChi
 
 ## Specialis at:
-[x] ✨ Making bugs
-[x] 🔗 Spagetti code
+- [x] ✨ Making bugs
+- [x] 🔗 Spagetti code
 
 ## Github Statistics
 ![KagChi's github stats](https://github-readme-stats.vercel.app/api?username=kagchi&show_icons=true&theme=radical)
